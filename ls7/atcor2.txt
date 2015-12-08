@@ -1,0 +1,8 @@
+8                          # indicates that it is an ETM+ image
+05 24 15.67 -78.691 35.749 # image taken on the 24th of May, at 15:42 GMT in decimals; the center of the image lies at 78.691°W and 35.749°N
+2                          # the midlatitude summer atmospheric model
+1                          # the continental aerosol model
+50                         # the visibility for the aerosol model [km]
+-0.110                     # the terrain lies 110 meters above sea level [km] * -1
+-709                       # image taken of a satellite sensor (1000)
+62                         # spectral band, here 1: blue
